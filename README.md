@@ -7,7 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱  Working as an **IT Assistant** at Dynawash Limited, Sri Lanka
+- 👨‍💻  Working as an **IT Assistant** at Dynawash Limited, Sri Lanka
+- 🎓  Graduated Software Engineer at NSBM Green University, Sri Lanka
+- 💻  Freelancer
+- 📝 Editor - Social Media post designing, Photo Editing, Product post designing, etc...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
